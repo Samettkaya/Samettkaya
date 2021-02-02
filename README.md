@@ -5,7 +5,6 @@
  💡&nbsp;I like to explore new technologies and learning.
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Samettkaya.Samettkaya)
 
 <h3 align="left">Languages and Tools:</h3>
 <p > 
