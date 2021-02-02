@@ -21,6 +21,6 @@
 ### Github Analytics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samettkaya&layout=compact)](https://github.com/samettkaya/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samettkaya&show_icons=true&theme=tokyonight) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samettkaya&show_icons=true&theme=tokyonight)](https://github.com/samettkaya/github-readme-stats)
 
 
