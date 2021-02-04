@@ -1,9 +1,12 @@
 <h1 align="left">Hi 👋, I'm Samet Kaya</h1>
 <h3 align="left">A Software Developer </h3>
 
--🌱&nbsp;I'm currently learning object oriented programs with Asp.Net Core and C # programming language. 
--💡&nbsp;I like to explore new technologies and learning.
+🌱 I'm currently learning object oriented programs with Asp.Net Core and C # programming language. 
 
+
+
+
+💡 I like to explore new technologies and learning.
 
 
 
