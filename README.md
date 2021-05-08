@@ -8,6 +8,7 @@
 
 💡 I like to explore new technologies and learning.
 
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsamettkaya.sametkaya%2Freadme)
 
 
 <h3 align="left">Languages and Tools</h3>
