@@ -31,7 +31,16 @@ You can find and get touch with me on these accounts!
 
 ### Github Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samettkaya&layout=compact)](https://github.com/samettkaya/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samettkaya&show_icons=true&theme=tokyonight)](https://github.com/samettkaya/github-readme-stats)
+<a href="https://github.com/samettkaya/github-readme-stats">
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samettkaya&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
+</a>
+<a href="https://github.com/samettkaya/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=samettkaya&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+
+
+
+
 
 
