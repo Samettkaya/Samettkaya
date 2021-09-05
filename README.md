@@ -1,5 +1,8 @@
-<h1 align="left">Hi 👋, I'm Samet Kaya</h1>
-<h3 align="left">A Software Developer </h3>
+ <img align="center" src="https://github.com/Samettkaya/Samettkaya/blob/main/Orange%20and%20White%20Funny%20Dating%20Animated%20Video%20Presentation%20(2).gif" alt="AnhellO :: Top Langs" />
+</a>
+
+
+
 
 🌱 I'm currently learning object oriented programs with Asp.Net Core and C # programming language. 
 
