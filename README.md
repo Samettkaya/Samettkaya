@@ -1,21 +1,6 @@
  <img align="center" src="https://github.com/Samettkaya/Samettkaya/blob/main/Orange%20and%20White%20Funny%20Dating%20Animated%20Video%20Presentation%20(2).gif" alt="AnhellO :: Top Langs" />
 </a>
 
-<p style=margin:"10px 0px">
-    <a href="https://discord.gg/XTW52Kt">
-      <img align="left" alt="Samet's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-    </a>
-    <a href="https://twitter.com/abhisheknaiidu">
-      <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-      <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    </a>
-    <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-      <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-    </a>
-</p>
-</br></br>
 
 
 Hello, I'm Samet Kaya, a passionate self-taught full-stack web developer and computer programmer studying in Yalova. My passion for software is to imagine ideas and turn them into reality with elegant interfaces. I pay a lot of attention to the experience, architecture and code quality of what I do.
