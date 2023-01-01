@@ -3,7 +3,7 @@
 
 
 
-Hello, I'm Samet Kaya, a passionate self-taught full-stack web developer and computer programmer studying in Yalova. My passion for software is to imagine ideas and turn them into reality with elegant interfaces. I pay a lot of attention to the experience, architecture and code quality of what I do.
+Hello, I'm Samet Kaya, a self-taught Front-end developer and computer programmer working in the front-end field. My passion for software is to imagine ideas and turn them into reality with elegant interfaces. I pay a lot of attention to the experience, architecture and code quality of what I do.
 
 I like to explore new technologies and learning.
 
