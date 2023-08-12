@@ -1,25 +1,25 @@
- <img align="center" src="https://github.com/Samettkaya/Samettkaya/blob/main/Orange%20and%20White%20Funny%20Dating%20Animated%20Video%20Presentation%20(2).gif" alt="AnhellO :: Top Langs" />
-</a>
+ <!--  <img align="center" src="https://github.com/Samettkaya/Samettkaya/blob/main/Orange%20and%20White%20Funny%20Dating%20Animated%20Video%20Presentation%20(2).gif" alt="AnhellO :: Top Langs" />
+</a>  -->
 
+<h3 align="center">Front nd Developer | Mobile Developer | Technology Enthusiast :wave:</h3>
 
+<br/>
 
-Hello, I'm Samet Kaya, a self-taught Front-end developer and computer programmer working in the front-end field. My passion for software is to imagine ideas and turn them into reality with elegant interfaces. I pay a lot of attention to the experience, architecture and code quality of what I do.
+🎯 Hi! I'm Samet Kaya, both a front-end and mobile application developer. In the software world, I love to create projects using my imagination and bring them to life with elegant, impressive user interfaces. I attach great importance to experience, architecture and code quality.
 
-I like to explore new technologies and learning.
+<br/>
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsamettkaya.sametkaya%2Freadme)
+🔍 I am constantly researching and learning about new technologies. As well as developing my own skills in this field, I am also happy by sharing with other people and contributing to the community.
 
-<h3 align="left">Connect with me 📫</h3>
+<br/>
 
+ <!-- ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsamettkaya.sametkaya%2Freadme)  -->
 
-You can find and get touch with me on these accounts!
+<br/>
 
+📫 You can contact me on the following accounts:
 
-
-
-📫 How to reach me **kaya67380@gmail.com**
-
-
+📧 Email: kaya67380@gmail.com   &nbsp; &nbsp; &nbsp;   🌐 Website: [https://bento.me/sametkaya](https://bento.me/sametkaya)
 
 <p align="left">
 <a href="https://twitter.com/samet26154049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samet26154049" height="30" width="40" /></a>
@@ -29,7 +29,10 @@ You can find and get touch with me on these accounts!
 </p>
 
 
-**languages and tools:**  
+
+<br/>
+
+ **Languages and Tools:**  
 
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -53,8 +56,9 @@ You can find and get touch with me on these accounts!
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></code>
 <code><img height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code>
 
+<br/>
 
-### Github Analytics
+📊 **Github Analytics**
 
 | <a href="https://github.com/samettkaya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=samettkaya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/samettkaya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samettkaya&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
