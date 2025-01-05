@@ -13,6 +13,10 @@
 
 <br/>
 
+☕ **Want to support my work? &nbsp; You can buy me a coffee!**  
+👉 [Buy Me a Coffee](https://buymeacoffee.com/kaya67380x)
+
+
  <!-- ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsamettkaya.sametkaya%2Freadme)  -->
 
 <br/>
